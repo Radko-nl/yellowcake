@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Radko
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/aec3440e-95b5-4dca-b1d8-f8af3db1ebdd/-/preview/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
