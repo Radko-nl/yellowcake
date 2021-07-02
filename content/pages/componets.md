@@ -27,8 +27,8 @@ video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/0dc9feb2-9fd2-49db-a403-03d404156c72/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - description: acco
+    title: accordio-1
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
   - description: Taciti lorem tempor quam vestibulum dis habitasse
